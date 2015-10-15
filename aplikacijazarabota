@@ -1,0 +1,88 @@
+<!DOCTYPE html">
+<html>
+<head>
+  <title>Апликација за работа</title>
+   <meta charset="UTF-8">
+</head>
+<body><center>
+<form>
+<table border="1">
+<tr>
+<td><br>Име: <br><input type="Име" name="Име"</br>
+</td><tr>
+<br>
+<tr>
+<td>
+<br>Датум на раѓање:<br> <input type="Име" name="Име"br><br>
+</td></tr><tr>
+<td>
+<br>Презиме:<br> <input type="Презиме" name="Презиме"
+br><br></td></tr><tr>
+<td>
+<br>Град:<br> <input type="Град" name="Град"
+br><br></td></tr><tr>
+<td>
+<br>Адреса: <br><input type="Адреса" name="Име"
+br><br></td></tr><tr>
+<td>
+<br>ЕМБГ:<br> <input type="ЕМБГ" name="ЕМБГ"
+br></tr>
+</td><br><tr>
+<td>
+<br>Телефон:<br><input type="Телефон" name="Телефон"
+br><br></tr>
+</td><tr>
+<td>
+<br>Маил:<br> <input type="Маил" name="Маил"
+br><br><br></td></tr><tr>
+<td>
+<textarea rows="4" cols="50">ВНЕСИ ОПИС</textarea>
+</tr>
+</td>
+<tr>
+<td>
+<br>Поштенски број:<br> <input type="Поштенски број" name="Поштенски број"br><br>
+</tr>
+</td><tr>
+<td>
+<br>Пол: <br>Машко<input type="radio" name="Машко"></a>
+Женско<input type="radio" name="Женско"></a><br>
+<br></tr>
+</td><tr>
+<td>
+<label>Избери држава:</label><br>
+</tr>
+</td><tr>
+<td>
+<select>
+  <option value="македонија">Македонија</option>
+  <option value="србија">Србија</option>
+  <option value="русија">Русија</option>
+  <option value="америка">Америка</option>
+</select></tr>
+</td>
+<br>
+ <br>
+ <tr>
+<td>
+<label>Избери град:</label><br>
+<select multiple>
+  <option value="скопје">Скопје</option>
+  <option value="струмица">Струмица</option>
+  <option value="Москва">Москва</option>
+  <option value="крашнодар">Крашнодар</option>
+  <option value="Лос анџелес">Лос Анџелес</option>
+  <option value="Њу јорк">Њу јорк</option>
+</select>
+<br>
+<hr>
+<a href="2.html"><button type="button">Испрати!</button></a><a href="index.html"><button type="button">Ресетирај!</button></a>
+</tr>
+</td>
+<br>
+
+
+</form>
+</body>
+</center>
+</html>
